@@ -1,0 +1,9 @@
+.vscode
+.env
+.venv
+.ENV
+.VENV
+main
+main.exe
+curl
+libcurl-x64.dll
